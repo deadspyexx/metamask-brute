@@ -2,7 +2,7 @@
 
 ## For educational purposes only
 A js program random generate (12, 18, 24) words metamask mnemonic phrase.
-
+A compiled js program that randomly generates a mnemonic phrase of 12, 18, 24 metamasking words
 
 
 ## Install
