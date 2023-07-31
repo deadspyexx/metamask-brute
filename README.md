@@ -22,7 +22,9 @@ VALID_ENTROPY is then divided into the required word segments, e.g., 12 words, a
 
  By performing the actions described above, we can get the following results
 
+<div id="header" align="center">
+  <img src="https://houseoffirst.com/images/misc/mm_twitch_yellow_matte.gif" width="100"/>
+</div>
+
 ## Warning
 Using such techniques to gain unauthorized access to someone else's wallet is not only against the law but also highly unethical. It violates the trust and privacy of individuals and can lead to severe consequences, including legal action and criminal charges.
-
-![](https://camo.githubusercontent.com/6e9ae71b292b12e0015f230cd230a7df1c63e558b5096ba3d924f7e082b2918d/68747470733a2f2f686f7573656f6666697273742e636f6d2f696d616765732f6d6973632f6d6d5f7477697463685f79656c6c6f775f6d617474652e676966)
