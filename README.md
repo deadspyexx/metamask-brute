@@ -1,5 +1,7 @@
 # metamask-brute
+
 ![](https://camo.githubusercontent.com/6e9ae71b292b12e0015f230cd230a7df1c63e558b5096ba3d924f7e082b2918d/68747470733a2f2f686f7573656f6666697273742e636f6d2f696d616765732f6d6973632f6d6d5f7477697463685f79656c6c6f775f6d617474652e676966)
+
 ## For educational purposes only
 A program random generate (12, 18, 24) words metamask mnemonic phrase.
 
