@@ -16,5 +16,5 @@ A compiled js program that randomly generates a mnemonic phrase of 12, 18, 24 me
 
 
 
-# WARNING
+## Warning
 Using such techniques to gain unauthorized access to someone else's wallet is not only against the law but also highly unethical. It violates the trust and privacy of individuals and can lead to severe consequences, including legal action and criminal charges.
